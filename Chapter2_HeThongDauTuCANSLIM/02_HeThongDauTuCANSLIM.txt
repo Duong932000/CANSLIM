@@ -1,11 +1,13 @@
 
+TỔNG QUAN HỆ THỐNG ĐẦU TƯ CANSLIM
+
 1. 3 "Hòn đá tảng" tạo nên nền móng của hệ thống đầu tư CANSLIM:
 
 - Hòn đá tảng số 1: Chỉ mua cổ phiếu trong thị trường tăng giá. Thực hiện các phòng thủ khi thị
 trường con gấu bắt đầu xuất hiện
 
 - Hòn đá tảng số 2: Tập trung vào các công ty có tăng trưởng lợi nhuận cao, sản phẩm hoặc dịch vụ
-mới, mang tính cách mạng
+mới, mang tính cách mạng.
 
 - Hòn đá tảng số 3: Mua các cổ phiếu được nhiều nhà đầu tư tổ chức thu gom. Tránh xa khi các nhà
 đầu tư tổ chức bán tháo nó.
@@ -29,7 +31,7 @@ mới, mang tính cách mạng
 bắt đầu xuất hiện
 
 M: Xu hướng thị trường
---> Lịch sử cho thấp cứ 3 / 4 cổ phiếu sẽ đi theo xu hướng thị trường chung, bất kể là thị trường
+--> Lịch sử cho thấy cứ 3 / 4 cổ phiếu sẽ đi theo xu hướng thị trường chung, bất kể là thị trường
 tăng hoặc giảm. Vì thế, bạn nên học cách đi theo, chứ đừng chiến đấu, chống lại xu hướng hiện tại.
 
 --> Bạn không cần phải luôn luôn giữ tỷ trọng cổ phiếu cao trên thị trường chứng khoán. Bạn chỉ kiếm
