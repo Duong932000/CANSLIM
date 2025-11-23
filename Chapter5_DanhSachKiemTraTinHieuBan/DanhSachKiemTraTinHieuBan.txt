@@ -41,16 +41,16 @@ Lượt giao dịch      Tiền        Lãi OR LỖ      Tiền lãi OR TIỀN L
 #2                  4650        -7%            -326                     4324
 #3                  4324        +25%           +1081                    5405 (lãi 8%)
 
-+ QUY TẮC 72: 
---> Lấy mức lãi mà bạn kiếm được khi đầu tư ở dạng phần trăng, rồi lấy 72 chia cho số đó thì sẽ ra
-được số lần cần đầu tư để lãi kép làm tăng gấp đôi số tiền của bạn
++ QUY TẮC 72:
+--> Lấy mức lãi mà bạn kiếm được khi đầu tư ở dạng phần trăm, rồi lấy 72 chia cho số đó thì sẽ ra
+được số lần cần đầu tư để lãi kép làm tăng gấp đôi số tiền của bạn.
 
-+ QUY TẮC CHỐT LÃI 20 - 25 %
++ QUY TẮC CHỐT LÃI 20 - 25%
 --> Mức lãi 20 - 25% được tính từ điểm mua lý tưởng của cổ phiếu, chứ không phải từ thời điểm bạn
 mua
 
 VD: mua cổ phiếu cao hơn 4% so với điểm mua lý tưởng, nếu cổ phiếu tăng sau đó là 20% so với điểm
-mua lý tưởng, lợi nhuận của bạn sẽ là 16%
+mua lý tưởng, lợi nhuận của bạn sẽ là 16%.
 
 + QUY TẮC ĐỪNG QUÊN ĐI CỔ PHIỂU MANG LẠI CHIẾN THẮNG SAU KHI ĐÃ CHỐT LÃI
 --> Cổ phiếu nào mang lại nhiều lợi nhuận, có nhiều khả năng sẽ tiếp tục sinh lời, cho nên đừng bỏ
@@ -59,7 +59,7 @@ qua nó sau khi đã kiếm được lãi từ nó.
 + NGOẠI LỆ QUAN TRỌNG CHO QUY TẮC CHỐT LÃI 20 - 25%
 --> Nếu một cổ phiếu tăng hơn 20% trong vòng 3 tuần từ điểm mua hợp lý, hãy nắm giữ ít nhất 8 tuần
 --> các cổ phiếu đang phô diễn nguồn năng lượng mạnh mẽ như vậy có tiềm năng sẽ tạo ra mức lãi lớn
-hơn rất nhiều. Đó là một chỉ báo cho thấy các nhà đầu tư tổ chức đang đẩy mạnh thu gom cổ phiếu để
+hơn rất nhiều. Đó là một điềm báo cho thấy các nhà đầu tư tổ chức đang đẩy mạnh thu gom cổ phiếu để
 bổ sung thêm vị thế hoặc tạo dựng một vị thế mới. Đây chính là nguồn năng lượng giúp cổ phiếu
 tăng giá kéo dài và bền vững.
 
